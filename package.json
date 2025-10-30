@@ -1,0 +1,19 @@
+{
+  "name": "30octgitconflicttesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingHng/30OctGitConflictTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JingHng/30OctGitConflictTesting/issues"
+  },
+  "homepage": "https://github.com/JingHng/30OctGitConflictTesting#readme"
+}

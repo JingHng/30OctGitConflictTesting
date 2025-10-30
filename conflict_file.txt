@@ -1,0 +1,4 @@
+This is the original content.
+We'll create a merge conflict with this file.
+
+This line was added in the feature branch.

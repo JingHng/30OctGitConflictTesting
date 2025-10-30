@@ -1,7 +1,6 @@
 Hello this is the first change
 
-Hello World! - Damian
-
+Hello World!
 
 Hello this is my second commit
 

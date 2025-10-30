@@ -10,4 +10,4 @@ Jing Hng was here again and again and again
 
 Jing hng likes sushi
 
-Jing Hng like carrot
+Jing Hng likes jujube
